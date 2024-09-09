@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://teiavmerrifield.github.io/mywebsite/sitemap.xml

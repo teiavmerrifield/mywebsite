@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Teia&#x27;s Trouble</title>
+    <link href="https://teiavmerrifield.github.io/mywebsite/feed.xml" rel="self" />
+    <link href="https://teiavmerrifield.github.io/mywebsite" />
+    <updated>1970-01-01T02:00:00+02:00</updated>
+    <author>
+        <name>Teia Van Rensburg</name>
+    </author>
+    <id>https://teiavmerrifield.github.io/mywebsite</id>
+
+</feed>

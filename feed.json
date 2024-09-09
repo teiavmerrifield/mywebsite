@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Teia&#x27;s Trouble",
+    "description": "",
+    "home_page_url": "https://teiavmerrifield.github.io/mywebsite",
+    "feed_url": "https://teiavmerrifield.github.io/mywebsite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Teia Van Rensburg"
+    },
+    "items": [
+    ]
+}
